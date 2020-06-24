@@ -17,7 +17,6 @@ Stitched panorama:
 
 # Sample 2
 
-Input images:
 ![input_ver.jpg](extra4/askf123.jpg)
 ![input_ver.jpg](extra4/fjsdk5475.jpg)
 ![input_ver.jpg](extra4/sdafh8768.jpg)
