@@ -14,3 +14,8 @@ Input images:
 
 Stitched panorama:
 ![input_hotel.jpg](extra1/panoramaf.jpg)
+
+# Sample 2
+
+Input images:
+![input_hotel.jpg](extra1/1.jpg)
