@@ -5,7 +5,12 @@ This project stitches all the images in a folder if they overlap
 
 1. Run "stitch.py" with name of the folder containing images to be stitched as argument
 
-# Sample
+# Sample 1
 
 Input images:
-![input_hotel.jpg](extra 1/deepracer-hard-track-world.jpg)
+![input_hotel.jpg](extra1/1.jpg)
+![input_hotel.jpg](extra1/2.jpg)
+![input_hotel.jpg](extra1/3.jpg)
+
+Stitched panorama:
+![input_hotel.jpg](extra1/panoramaf.jpg)
